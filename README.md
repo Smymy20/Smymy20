@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohamed Ahmed Samir] 👋
+# Hi there, I'm Mohamed Ahmed Samir 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=aboutdotme&logoColor=white)](https://your-portfolio-website.com)
