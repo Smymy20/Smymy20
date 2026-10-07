@@ -38,7 +38,6 @@ An **AI/ML Engineer** focused on building intelligent systems, fine-tuning Large
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[LLM Quiz & Concept Generator](#)** | Fine-tuned Qwen models using QLoRA/Unsloth to generate structured quizzes and detailed educational explanations. | `PyTorch` `Hugging Face` `Unsloth` `Streamlit` |
-| **[Aerial Object Tracking System](#)** | AI-powered vision system using Siamese networks for continuous tracking of high-value targets. | `Python` `OpenCV` `PyTorch` `Deep Learning` |
 | **[Variance Optimization Engine](#)** | Convex optimization pipeline minimizing target score variance under defined domain constraints. | `Python` `CVXPY` `NumPy` `SciPy` |
 
 ---
