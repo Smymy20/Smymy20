@@ -53,5 +53,5 @@ An **AI/ML Engineer** focused on building intelligent systems, fine-tuning Large
 
 ### 📫 Connect with Me
 
-* **Email:** [your.email@example.com](mailto:mohamed.samiiir@outlook.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-ahmed10)
+* **Email:** [mohamed.samiiir@outlook.com](mailto:mohamed.samiiir@outlook.com)
+* **LinkedIn:** [linkedin.com/in/mohamed-ahmed10](https://www.linkedin.com/in/mohamed-ahmed10)
